@@ -1,2 +1,2 @@
 # TeddyOS
-This is my own operating system, currently not an ISO file, but it will be soon!
+This is my own OS, linux based, made in Ubuntu 25.04!
